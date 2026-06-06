@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manikanta%20Chalasani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20FinTech%20%26%20Real-Time%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manikanta+Chalasani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend+Engineer+%7C+FinTech+%26+Real-Time+Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                           -->
