@@ -1,196 +1,402 @@
-<h1 align="center">Hi, I'm Manikanta Chalasani 👋</h1>
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manikanta%20Chalasani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20FinTech%20%26%20Real-Time%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=2%2B+Years+in+Production+FinTech+%26+Trading+Systems;React+%E2%80%A2+TypeScript+%E2%80%A2+WebSockets+%E2%80%A2+Real-Time+Apps;Building+AI-Powered+Testing+Tools+%F0%9F%A4%96;Multi-Exchange+Crypto+%7C+Multi-Broker+Equity+Platforms)](https://git.io/typing-svg)
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      PROFILE VIEWS + SOCIALS                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <b>Frontend Engineer · FinTech & Trading Systems · Real-Time Web Apps</b><br/>
-  Hyderabad, Telangana, India &nbsp;|&nbsp; 2+ Years Production Experience
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manikantach03&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+  &nbsp;
   <a href="mailto:manikantachalasani08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Manikantach03" target="_blank">
+  &nbsp;
+  <a href="https://github.com/Manikantach03">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Manikantach03&style=for-the-badge&color=0e75b6" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🏦 **Frontend Engineer at KrafIT Technologies** — building production-grade FinTech & trading platforms
-- ⚡ Specialized in **real-time WebSocket systems**, **high-frequency data rendering**, and **scalable B2B architecture**
-- 📈 Built **multi-exchange crypto trading platforms** (Binance, Delta Exchange, CoinDCX, Bybit, CoinSwitch)
-- 📊 Built **multi-broker equity & F&O platforms** (Zerodha, Dhan, Shoonya, Jainam)
-- 🚀 Currently building — **AI-Powered Testing Gateway** (no-code automated testing platform using Playwright + Claude AI)
-- 🌱 Learning — **Playwright** browser automation and **AI + DOM understanding**
-- 🎓 B.Tech in Electronics & Communication — Dhanekula Institute of Engineering & Technology
+</div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🧑‍💻 About Me
+
+```typescript
+const manikanta: Developer = {
+  name:       "Manikanta Chalasani",
+  role:       "Frontend Engineer",
+  company:    "KrafIT Technologies",
+  location:   "Hyderabad, Telangana, India 📍",
+  experience: "2+ Years — Production FinTech & Trading Systems",
+  education:  "B.Tech ECE — Dhanekula Institute of Engineering & Technology",
+
+  expertise: [
+    "Real-Time WebSocket Systems & High-Frequency Data Rendering",
+    "Multi-Exchange Crypto Platforms (Binance, Delta, CoinDCX, Bybit, CoinSwitch)",
+    "Multi-Broker Equity & F&O Platforms (Zerodha, Dhan, Shoonya, Jainam)",
+    "Scalable B2B Frontend Architecture",
+    "TradingView-Style Charting & Options Chain Visualization",
+  ],
+
+  currentlyBuilding: "AI-Powered Testing Gateway (Playwright + Claude AI) 🤖",
+  learning:          ["Playwright Browser Automation", "AI + DOM Understanding"],
+  motto:             "Building systems that move fast, scale big, and never break.",
+};
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CURRENT FOCUS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+**🚀 Building**
+- AI-Powered Testing Gateway (no-code automated testing)
+- Playwright + Claude AI DOM understanding pipeline
+- Testing-as-a-Service API architecture
+
+</td>
+<td width="50%">
+
+**📚 Learning**
+- Advanced Playwright browser automation
+- LLM-driven UI test planning
+- AI agent patterns for QA workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### ⚛️ Frontend Core
 
-### State Management & Data Fetching
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### Charts & Visualization
-![ECharts](https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apache&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=react&logoColor=white)
-![amCharts](https://img.shields.io/badge/amCharts-67B346?style=for-the-badge&logoColor=white)
+### 🎨 Styling & UI
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🔄 State Management & Data Fetching
+
+<p>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+### 📊 Charts & Data Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/amCharts-67B346?style=for-the-badge&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ☁️ Cloud, Tools & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
----
+<details open>
+<summary><h3>📈 NiyaCrypto — Multi-Exchange Crypto Trading Platform</h3></summary>
 
-### 📈 NiyaCrypto — Multi-Exchange Crypto Trading Platform
+> `React.js` · `TypeScript` · `Tailwind CSS` · `WebSockets` · `REST APIs`
 
-> **React.js · TypeScript · Tailwind CSS · WebSockets · REST APIs**
+A **production-grade** multi-exchange crypto trading platform integrating **Binance, Delta Exchange, CoinDCX, CoinSwitch, and Bybit** into a unified real-time dashboard.
 
-A production-grade multi-exchange crypto trading platform integrating **Binance, Delta Exchange, CoinDCX, CoinSwitch, and Bybit** into a unified real-time dashboard.
+| Feature | Details |
+|---|---|
+| ⚡ **Options Chain** | Real-time LTP, Open Interest (OI) & Greeks via WebSockets |
+| 🤖 **Strategy Builder** | Rule-based entry/exit logic, position sizing, automated execution |
+| 📡 **Signal Bridge** | Predefined & custom signal routing system |
+| 📊 **TradingView Charts** | Candlestick charts, P&L analytics, live portfolio dashboards |
+| 🔐 **Auth System** | Multi-exchange JWT-secured shared account access |
 
-<!-- Add your NiyaCrypto project screenshot below -->
-<!-- ![NiyaCrypto Screenshot](./assets/niyacrypto-screenshot.png) -->
-
-**Key Features:**
-- ⚡ Real-time Options Chain module with live LTP, Open Interest (OI), and Greeks via WebSockets
-- 🤖 Strategy Builder — rule-based entry/exit logic, position sizing, and automated execution
-- 📡 Signal Bridge System for predefined and custom signal routing
-- 📊 TradingView-style candlestick charts with P&L analytics and live portfolio dashboards
-- 🔐 Multi-exchange authentication with JWT-secured shared account access
-
----
-
-### 💹 Niyam Trade — Multi-Broker B2B Equity & F&O Platform
-
-> **React.js · TypeScript · Tailwind CSS · WebSockets · React Query**
-
-A scalable B2B trading platform integrating **Dhan, Zerodha, Shoonya, and Jainam** — enabling centralized order execution across multiple broker accounts simultaneously.
-
-<!-- Add your NiyamTrade project screenshot below -->
-<!-- ![NiyamTrade Screenshot](./assets/niyamtrade-screenshot.png) -->
-
-**Key Features:**
-- 🏦 Centralized Trade Station — single & multi-leg orders across multiple brokers in parallel
-- 👥 Trader-Client (B2B) architecture — traders execute on behalf of mapped client accounts
-- ⚙️ Risk management modules — lot size controls, quantity restrictions, F&O execution rules
-- 📊 Real-time WebSocket feeds for live market data, order status, and position tracking
-- 🔒 Role-based access control (RBAC) separating trader and client workflows
+</details>
 
 ---
 
-### 🎓 Nova8 Labs — AI-Powered EdTech Platform
+<details open>
+<summary><h3>💹 Niyam Trade — Multi-Broker B2B Equity & F&O Platform</h3></summary>
 
-> **React.js · TypeScript · Node.js · Express.js · MySQL · AWS**
+> `React.js` · `TypeScript` · `Tailwind CSS` · `WebSockets` · `React Query`
 
-A full-stack EdTech platform independently designed, built, and deployed on AWS as a freelance engagement.
+A **scalable B2B trading platform** integrating **Dhan, Zerodha, Shoonya, and Jainam** — enabling centralized order execution across multiple broker accounts simultaneously.
 
-<!-- Add your Nova8 Labs project screenshot below -->
-<!-- ![Nova8 Screenshot](./assets/nova8-screenshot.png) -->
+| Feature | Details |
+|---|---|
+| 🏦 **Trade Station** | Single & multi-leg orders across multiple brokers in parallel |
+| 👥 **B2B Architecture** | Traders execute on behalf of mapped client accounts |
+| ⚙️ **Risk Management** | Lot size controls, quantity restrictions, F&O execution rules |
+| 📊 **Live Market Data** | WebSocket feeds for order status and position tracking |
+| 🔒 **RBAC** | Role-based access control separating trader and client workflows |
 
-**Key Features:**
-- 🗂️ Multi-level course hierarchy — Categories → Subcategories → Courses → Modules → Chapters → Topics → Assessments
-- 🛡️ Admin Management System with dynamic RBAC and protected routing
-- 📝 MCQ & Assessment Engine with real-time progress tracking and automated evaluation
-- 💳 JWT authentication, subscription management, and payment integration
-- ☁️ Full AWS cloud deployment — scalable multi-tenant production environment
+</details>
 
 ---
 
-### 🔬 AI-Powered Testing Gateway *(In Progress)*
+<details open>
+<summary><h3>🎓 Nova8 Labs — AI-Powered EdTech Platform</h3></summary>
 
-> **Node.js · Playwright · Claude AI · React · Docker**
+> `React.js` · `TypeScript` · `Node.js` · `Express.js` · `MySQL` · `AWS`
 
-A first-of-its-kind **Testing-as-a-Service Gateway** — subscribe, give your app URL, and the AI tests everything automatically with zero code and zero setup.
+A **full-stack EdTech platform** independently designed, built, and deployed on AWS as a freelance engagement.
 
-<!-- Add your Testing Gateway project screenshot below -->
-<!-- ![Testing Gateway Screenshot](./assets/testing-gateway-screenshot.png) -->
+| Feature | Details |
+|---|---|
+| 🗂️ **Course Hierarchy** | Categories → Subcategories → Courses → Modules → Chapters → Topics |
+| 🛡️ **Admin System** | Dynamic RBAC with protected routing |
+| 📝 **Assessment Engine** | MCQ engine with real-time progress tracking & automated evaluation |
+| 💳 **Auth & Payments** | JWT authentication, subscription management, payment integration |
+| ☁️ **Cloud Deployed** | Full AWS deployment — scalable multi-tenant production environment |
 
-**How It Works:**
+</details>
+
+---
+
+<details open>
+<summary><h3>🔬 AI-Powered Testing Gateway <img src="https://img.shields.io/badge/IN%20PROGRESS-7c3aed?style=flat-square" /></h3></summary>
+
+> `Node.js` · `Playwright` · `Claude AI` · `React` · `Docker`
+
+A **first-of-its-kind Testing-as-a-Service Gateway** — subscribe, give your app URL, and AI tests everything automatically with zero code and zero setup.
+
 ```
-Subscribe → Get API Key → Give App URL → AI Tests Everything → Get Full Report
+Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Report
 ```
 
-**Key Features:**
-- 🤖 Claude AI reads the DOM and plans all test cases automatically
-- 🎭 Playwright executes tests in real isolated browsers
-- 🔐 Secure API key gateway with rate limiting
-- 📊 Full test report with screenshots and pass/fail results
-- 🚫 Zero installation · Zero code · Zero setup for the end user
+| Feature | Details |
+|---|---|
+| 🤖 **AI Test Planning** | Claude AI reads the DOM and generates all test cases automatically |
+| 🎭 **Real Browser Testing** | Playwright executes tests in isolated browser environments |
+| 🔐 **Secure Gateway** | API key system with rate limiting |
+| 📊 **Full Reports** | Screenshots, pass/fail results, detailed analytics |
+| 🚫 **Zero Friction** | No installation · No code · No setup for end users |
 
-> **This product does not exist in the market yet.** First mover opportunity.
+> **⚡ This product does not exist in the market yet — First mover opportunity.**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikantach03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikantach03&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikantach03&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+</details>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   SPECIALIZATIONS TABLE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 What I Specialize In
 
-| Area | Details |
-|------|---------|
-| ⚡ Real-Time Systems | WebSocket architecture, live data streaming, high-frequency rendering |
-| 📈 FinTech & Trading | Crypto exchanges, equity/F&O platforms, Options Chain, P&L dashboards |
-| 🏗️ Scalable Architecture | Modular components, service-layer abstraction, reusable libraries |
-| 📊 Data Visualization | TradingView-style charts, real-time analytics, candlestick charting |
-| 🔐 Auth & Security | JWT, RBAC, protected routing, session management |
-| ☁️ Cloud Deployment | AWS production environments, build optimization |
+| Domain | Expertise |
+|---|---|
+| ⚡ **Real-Time Systems** | WebSocket architecture, live data streaming, high-frequency rendering |
+| 📈 **FinTech & Trading** | Crypto exchanges, equity/F&O platforms, Options Chain, P&L dashboards |
+| 🏗️ **Scalable Architecture** | Modular components, service-layer abstraction, reusable libraries |
+| 📊 **Data Visualization** | TradingView-style charts, real-time analytics, candlestick charting |
+| 🔐 **Auth & Security** | JWT, RBAC, protected routing, session management |
+| ☁️ **Cloud Deployment** | AWS production environments, build optimization |
 
 ---
 
-## 📫 Contact Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | manikantachalasani08@gmail.com |
-| 📱 Phone | +91 8688807103 |
-| 📍 Location | Hyderabad, Telangana, India |
-| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) |
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manikantach03&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikantach03&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikantach03&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Building systems that move fast, scale big, and never break under pressure."</i>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB TROPHIES                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  ⭐ <b>If you find my work useful, consider starring my repositories!</b> ⭐
-</p>
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manikantach03&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION GRAPH                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikantach03&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB ACHIEVEMENTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎖️ GitHub Achievements
+
+<div align="center">
+
+[![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/Manikantach03?achievement=yolo&tab=achievements)&nbsp;&nbsp;
+[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/Manikantach03?achievement=pull-shark&tab=achievements)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FUN FACT                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚡ Fun Facts
+
+- 🏦 I work where milliseconds matter — real-time trading systems where a 100ms lag costs real money
+- 📡 I've built WebSocket pipelines that simultaneously stream live market data from **5+ exchanges**
+- 🤖 I'm training AI to understand web UIs better than most junior QA engineers
+- 📈 Every `useEffect` I've written has had WebSocket data flowing through it
+- 🚀 I shipped my first AWS-deployed full-stack app as a freelancer before year 2 of my career
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONNECT WITH ME                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:manikantachalasani08@gmail.com">
+  <img src="https://img.shields.io/badge/Email-manikantachalasani08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Manikantach03">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+| 📧 Email | 📱 Phone | 📍 Location |
+|---|---|---|
+| manikantachalasani08@gmail.com | +91 8688807103 | Hyderabad, Telangana, India |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      SUPPORT                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💜 Support
+
+<div align="center">
+
+If you find my work useful or interesting, consider giving my repositories a ⭐
+
+[![GitHub stars](https://img.shields.io/github/stars/Manikantach03?style=for-the-badge&logo=github&label=Star%20My%20Repos&color=7c3aed)](https://github.com/Manikantach03?tab=repositories)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+*"Building systems that move fast, scale big, and never break under pressure."*
+
+</div>
