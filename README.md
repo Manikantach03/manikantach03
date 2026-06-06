@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manikanta+Chalasani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend+Engineer+%7C+FinTech+%26+Real-Time+Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Manikanta+Chalasani&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Frontend+Engineer+%7C+FinTech+%26+Real-Time+Systems&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                           -->
@@ -17,18 +17,18 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manikantach03&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Manikantach03&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VIEWS" />
   &nbsp;
   <a href="mailto:manikantachalasani08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Manikantach03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
 
@@ -105,54 +105,54 @@ const manikanta: Developer = {
 ### ⚛️ Frontend Core
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
 </p>
 
 ### 🎨 Styling & UI
 
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" />
 </p>
 
 ### 🔄 State Management & Data Fetching
 
 <p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" />
 </p>
 
 ### 📊 Charts & Data Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/amCharts-67B346?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&amp;logo=apache&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/amCharts-67B346?style=for-the-badge&amp;logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
 </p>
 
 ### ☁️ Cloud, Tools & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
 </p>
 
 ---
@@ -270,15 +270,15 @@ Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Repo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manikantach03&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manikantach03&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikantach03&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikantach03&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9&amp;langs_count=8" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikantach03&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikantach03&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa" width="60%" />
 
 </div>
 
@@ -292,7 +292,7 @@ Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Repo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manikantach03&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Manikantach03&amp;theme=onestar&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=4" width="100%" />
 
 </div>
 
@@ -306,7 +306,7 @@ Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Repo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikantach03&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikantach03&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=7c3aed&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%" />
 
 </div>
 
@@ -350,17 +350,17 @@ Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Repo
 <div align="center">
 
 <a href="mailto:manikantachalasani08@gmail.com">
-  <img src="https://img.shields.io/badge/Email-manikantachalasani08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-manikantachalasani08%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Manikantach03">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 <br/><br/>
@@ -395,7 +395,7 @@ If you find my work useful or interesting, consider giving my repositories a ⭐
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%" />
 
 *"Building systems that move fast, scale big, and never break under pressure."*
 
