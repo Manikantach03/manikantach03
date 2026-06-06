@@ -260,41 +260,6 @@ Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Repo
 | 🔐 **Auth & Security** | JWT, RBAC, protected routing, session management |
 | ☁️ **Cloud Deployment** | AWS production environments, build optimization |
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Manikantach03&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikantach03&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9&amp;langs_count=8" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikantach03&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa" width="60%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB TROPHIES                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manikantach03&amp;theme=onestar&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=4" width="100%" />
-
-</div>
 
 ---
 
