@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-3d.svg" alt="Manikanta Chalasani — Frontend Engineer" width="100%" />
+<img src="./hero-3d.svg" alt="Manikanta Chalasani — Frontend Engineer" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=2%2B+Years+in+Production+FinTech+%26+Trading+Systems;React+%E2%80%A2+TypeScript+%E2%80%A2+WebSockets+%E2%80%A2+Real-Time+Apps;Multi-Exchange+Crypto+%7C+Multi-Broker+Equity+Platforms;Now+at+Havata+Technologies+%E2%80%94+Full-Stack+Retail+ERP)](https://git.io/typing-svg)
 
@@ -47,7 +47,7 @@ const manikanta: Developer = {
 
 ## 🧊 3D Tech Stack
 
-<img src="./assets/stack-3d.svg" alt="3D tech stack" width="100%" />
+<img src="./stack-3d.svg" alt="3D tech stack" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
