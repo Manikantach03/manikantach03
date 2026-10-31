@@ -1,52 +1,31 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="./assets/hero-3d.svg" alt="Manikanta Chalasani — Frontend Engineer" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manikanta+Chalasani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend+Engineer+%7C+FinTech+and+Real-Time+Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=2%2B+Years+in+Production+FinTech+%26+Trading+Systems;React+%E2%80%A2+TypeScript+%E2%80%A2+WebSockets+%E2%80%A2+Real-Time+Apps;Building+AI-Powered+Testing+Tools+%F0%9F%A4%96;Multi-Exchange+Crypto+%7C+Multi-Broker+Equity+Platforms)](https://git.io/typing-svg)
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      PROFILE VIEWS + SOCIALS                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=2%2B+Years+in+Production+FinTech+%26+Trading+Systems;React+%E2%80%A2+TypeScript+%E2%80%A2+WebSockets+%E2%80%A2+Real-Time+Apps;Multi-Exchange+Crypto+%7C+Multi-Broker+Equity+Platforms;Now+at+Havata+Technologies+%E2%80%94+Full-Stack+Retail+ERP)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manikantach03&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Manikantach03&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
   &nbsp;
-  <a href="mailto:manikantachalasani08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
+  <a href="mailto:manikantachalasani08@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Manikantach03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-  </a>
+  <a href="https://github.com/Manikantach03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🧑‍💻 About Me
+
+Results-driven **Frontend Engineer** specializing in real-time trading platforms, with end-to-end ownership of multi-exchange crypto and multi-broker B2B equity systems from architecture to production. Deep expertise in **React.js, TypeScript, WebSocket-driven data streaming and high-frequency data visualization** — cutting UI latency by **~40%** and accelerating feature delivery by **~30%** through reusable component architecture.
 
 ```typescript
 const manikanta: Developer = {
   name:       "Manikanta Chalasani",
-  role:       "Frontend Engineer",
-  company:    "KrafIT Technologies",
+  role:       "Frontend Developer",
+  company:    "Havata Technologies",
+  previously: "KrafIT Technologies (2024 – Mar 2026)",
   location:   "Hyderabad, Telangana, India 📍",
   experience: "2+ Years — Production FinTech & Trading Systems",
   education:  "B.Tech ECE — Dhanekula Institute of Engineering & Technology",
@@ -55,199 +34,109 @@ const manikanta: Developer = {
     "Real-Time WebSocket Systems & High-Frequency Data Rendering",
     "Multi-Exchange Crypto Platforms (Binance, Delta, CoinDCX, Bybit, CoinSwitch)",
     "Multi-Broker Equity & F&O Platforms (Zerodha, Dhan, Shoonya, Jainam)",
-    "Scalable B2B Frontend Architecture",
+    "Scalable B2B Frontend Architecture & Reusable Component Libraries",
     "TradingView-Style Charting & Options Chain Visualization",
   ],
 
-  currentlyBuilding: "AI-Powered Testing Gateway (Playwright + Claude AI) 🤖",
-  learning:          ["Playwright Browser Automation", "AI + DOM Understanding"],
+  currentlyBuilding: "Full-Stack Retail & E-commerce Management Platform 🛒",
   motto:             "Building systems that move fast, scale big, and never break.",
 };
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CURRENT FOCUS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🧊 3D Tech Stack
 
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-**🚀 Building**
-- AI-Powered Testing Gateway (no-code automated testing)
-- Playwright + Claude AI DOM understanding pipeline
-- Testing-as-a-Service API architecture
-
-</td>
-<td width="50%">
-
-**📚 Learning**
-- Advanced Playwright browser automation
-- LLM-driven UI test planning
-- AI agent patterns for QA workflows
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-### ⚛️ Frontend Core
+<img src="./assets/stack-3d.svg" alt="3D tech stack" width="100%" />
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
-</p>
-
-### 🎨 Styling & UI
-
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" />
-</p>
-
-### 🔄 State Management & Data Fetching
-
-<p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" />
-</p>
-
-### 📊 Charts & Data Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&amp;logo=apache&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/amCharts-67B346?style=for-the-badge&amp;logoColor=white" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
-</p>
-
-### ☁️ Cloud, Tools & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **Frontend Developer** | Havata Technologies | 2026 – Present |
+| **Frontend Developer** | KrafIT Technologies Pvt. Ltd. | 2024 – Mar 2026 |
+
+---
 
 ## 🚀 Featured Projects
 
 <details open>
+<summary><h3>🛒 Retail & E-commerce Management Platform — Havata Technologies</h3></summary>
+
+> `React.js` · `Node.js` · `Express.js` · `MySQL` · `Sequelize ORM` · `REST APIs` · `Tailwind CSS`
+
+A **full-stack retail ERP** that connects inventory, barcode, sales & billing, purchasing and accounting in one system — eliminating duplicate data entry across business operations.
+
+| Feature | Details |
+|---|---|
+| 📦 **Inventory & Barcode** | Variants, stock tracking, low-stock alerts, barcode generation/printing with category, model & date filters |
+| 🧾 **Sales & Billing** | Invoices, payments, discounts, taxes, returns and sales reporting |
+| 📒 **Built-in Accounting** | Double-entry bookkeeping, ledgers, journal vouchers, receivables/payables, trial balance, P&L, balance sheet |
+| 🔐 **Role-Based Access** | Separate permissions for admins, managers and staff |
+| 📊 **Reports & Export** | Date-range filters, printable reports, PDF/Excel export |
+
+</details>
+
+---
+
+<details open>
 <summary><h3>📈 NiyaCrypto — Multi-Exchange Crypto Trading Platform</h3></summary>
 
-> `React.js` · `TypeScript` · `Tailwind CSS` · `WebSockets` · `REST APIs`
+> `React.js` · `TypeScript` · `Tailwind CSS` · `WebSockets` · `Apache ECharts` · `amCharts`
 
-A **production-grade** multi-exchange crypto trading platform integrating **Binance, Delta Exchange, CoinDCX, CoinSwitch, and Bybit** into a unified real-time dashboard.
+A **production-grade** platform unifying **Binance, Delta Exchange, CoinDCX, CoinSwitch and Bybit** into a single real-time dashboard — no per-exchange logins for B2B operations.
 
 | Feature | Details |
 |---|---|
-| ⚡ **Options Chain** | Real-time LTP, Open Interest (OI) & Greeks via WebSockets |
-| 🤖 **Strategy Builder** | Rule-based entry/exit logic, position sizing, automated execution |
-| 📡 **Signal Bridge** | Predefined & custom signal routing system |
-| 📊 **TradingView Charts** | Candlestick charts, P&L analytics, live portfolio dashboards |
-| 🔐 **Auth System** | Multi-exchange JWT-secured shared account access |
+| ⚡ **Options Chain** | Sub-second WebSocket refresh with LTP, Open Interest & Greeks |
+| 🤖 **Strategy Builder** | Rule-based entry/exit logic and conditional triggers for automated execution |
+| 🚀 **Performance** | ~40% lower UI lag via `React.memo`, `useRef` and batched state updates |
 
 </details>
 
 ---
 
 <details open>
-<summary><h3>💹 Niyam Trade — Multi-Broker B2B Equity & F&O Platform</h3></summary>
+<summary><h3>💹 NiyamTrade — Multi-Broker B2B Equity & F&O Platform</h3></summary>
 
-> `React.js` · `TypeScript` · `Tailwind CSS` · `WebSockets` · `React Query`
+> `React.js` · `TypeScript` · `Tailwind CSS` · `WebSockets` · `React Query` · `Redux Toolkit`
 
-A **scalable B2B trading platform** integrating **Dhan, Zerodha, Shoonya, and Jainam** — enabling centralized order execution across multiple broker accounts simultaneously.
+A **scalable B2B trading platform** across **Dhan, Zerodha, Shoonya and Jainam** — centralized order execution over multiple broker accounts at once.
 
 | Feature | Details |
 |---|---|
-| 🏦 **Trade Station** | Single & multi-leg orders across multiple brokers in parallel |
-| 👥 **B2B Architecture** | Traders execute on behalf of mapped client accounts |
-| ⚙️ **Risk Management** | Lot size controls, quantity restrictions, F&O execution rules |
-| 📊 **Live Market Data** | WebSocket feeds for order status and position tracking |
-| 🔒 **RBAC** | Role-based access control separating trader and client workflows |
+| 🏦 **Trade Station** | Parallel multi-leg order execution across 5+ Indian brokers |
+| 👥 **B2B Architecture** | Traders execute on behalf of mapped client accounts with JWT-secured sessions |
+| ⚙️ **Risk Controls** | Lot-size limits and quantity caps with live position & order tracking |
 
 </details>
 
 ---
-
-<details open>
-<summary><h3>🎓 Nova8 Labs — AI-Powered EdTech Platform</h3></summary>
-
-> `React.js` · `TypeScript` · `Node.js` · `Express.js` · `MySQL` · `AWS`
-
-A **full-stack EdTech platform** independently designed, built, and deployed on AWS as a freelance engagement.
-
-| Feature | Details |
-|---|---|
-| 🗂️ **Course Hierarchy** | Categories → Subcategories → Courses → Modules → Chapters → Topics |
-| 🛡️ **Admin System** | Dynamic RBAC with protected routing |
-| 📝 **Assessment Engine** | MCQ engine with real-time progress tracking & automated evaluation |
-| 💳 **Auth & Payments** | JWT authentication, subscription management, payment integration |
-| ☁️ **Cloud Deployed** | Full AWS deployment — scalable multi-tenant production environment |
-
-</details>
-
----
-
-<details open>
-<summary><h3>🔬 AI-Powered Testing Gateway <img src="https://img.shields.io/badge/IN%20PROGRESS-7c3aed?style=flat-square" /></h3></summary>
-
-> `Node.js` · `Playwright` · `Claude AI` · `React` · `Docker`
-
-A **first-of-its-kind Testing-as-a-Service Gateway** — subscribe, give your app URL, and AI tests everything automatically with zero code and zero setup.
-
-```
-Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Report
-```
-
-| Feature | Details |
-|---|---|
-| 🤖 **AI Test Planning** | Claude AI reads the DOM and generates all test cases automatically |
-| 🎭 **Real Browser Testing** | Playwright executes tests in isolated browser environments |
-| 🔐 **Secure Gateway** | API key system with rate limiting |
-| 📊 **Full Reports** | Screenshots, pass/fail results, detailed analytics |
-| 🚫 **Zero Friction** | No installation · No code · No setup for end users |
-
-> **⚡ This product does not exist in the market yet — First mover opportunity.**
-
-</details>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   SPECIALIZATIONS TABLE                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 What I Specialize In
 
@@ -255,31 +144,21 @@ Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Repo
 |---|---|
 | ⚡ **Real-Time Systems** | WebSocket architecture, live data streaming, high-frequency rendering |
 | 📈 **FinTech & Trading** | Crypto exchanges, equity/F&O platforms, Options Chain, P&L dashboards |
-| 🏗️ **Scalable Architecture** | Modular components, service-layer abstraction, reusable libraries |
-| 📊 **Data Visualization** | TradingView-style charts, real-time analytics, candlestick charting |
-| 🔐 **Auth & Security** | JWT, RBAC, protected routing, session management |
-| ☁️ **Cloud Deployment** | AWS production environments, build optimization |
-
+| 🏗️ **Scalable Architecture** | Reusable 40+ component library, service-layer API abstraction |
+| 📊 **Data Visualization** | TradingView-style charts, candlesticks, real-time analytics |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION GRAPH                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
+## 🧊 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikantach03&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=7c3aed&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%" />
+<!-- Generated daily by .github/workflows/profile-3d.yml (run it once manually after pushing) -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB ACHIEVEMENTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎖️ GitHub Achievements
 
@@ -292,43 +171,21 @@ Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Repo
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FUN FACT                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## ⚡ Fun Facts
 
 - 🏦 I work where milliseconds matter — real-time trading systems where a 100ms lag costs real money
-- 📡 I've built WebSocket pipelines that simultaneously stream live market data from **5+ exchanges**
-- 🤖 I'm training AI to understand web UIs better than most junior QA engineers
-- 📈 Every `useEffect` I've written has had WebSocket data flowing through it
-- 🚀 I shipped my first AWS-deployed full-stack app as a freelancer before year 2 of my career
+- 📡 I've built WebSocket pipelines that stream live market data from **5+ exchanges** at once
+- 📈 Almost every `useEffect` I write has WebSocket data flowing through it
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT WITH ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="mailto:manikantachalasani08@gmail.com">
-  <img src="https://img.shields.io/badge/Email-manikantachalasani08%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-</a>
+<a href="mailto:manikantachalasani08@gmail.com"><img src="https://img.shields.io/badge/Email-manikantachalasani08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/Manikantach03">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
-
-<br/><br/>
+<a href="https://github.com/Manikantach03"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 | 📧 Email | 📱 Phone | 📍 Location |
 |---|---|---|
@@ -338,29 +195,9 @@ Subscribe → Get API Key → Give App URL → AI Tests Everything → Full Repo
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      SUPPORT                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💜 Support
-
 <div align="center">
 
-If you find my work useful or interesting, consider giving my repositories a ⭐
-
-[![GitHub stars](https://img.shields.io/github/stars/Manikantach03?style=for-the-badge&logo=github&label=Star%20My%20Repos&color=7c3aed)](https://github.com/Manikantach03?tab=repositories)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
 *"Building systems that move fast, scale big, and never break under pressure."*
 
